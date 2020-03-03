@@ -35,5 +35,4 @@ group :jekyll_plugins do
   gem 'jekyll-mentions'
   gem 'jekyll-seo-tag'
   gem 'jekyll-redirect-from'
-  gem 'jekyll-theme-leap-day'
 end

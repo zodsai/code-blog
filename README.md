@@ -5,6 +5,11 @@ Notes about code. See more at https://code.zodsai.com
 - This website (blog) will be automatically compile once pushed to GitHub by GitHub Pages.
 - To run locally, use `jekyll serve`.
 
+## Run 
+```bash
+cd docs
+bundle exec jekyll serve
+```
+
 ## License
 See [license](LICENSE)
-

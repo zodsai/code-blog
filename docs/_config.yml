@@ -16,6 +16,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.

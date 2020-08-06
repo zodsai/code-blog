@@ -11,5 +11,8 @@ cd docs
 bundle exec jekyll serve
 ```
 
+## Emoji support 
+Emoji is supported on this website, see [https://www.webfx.com/tools/emoji-cheat-sheet/](https://www.webfx.com/tools/emoji-cheat-sheet/).
+
 ## License
 See [license](LICENSE)
